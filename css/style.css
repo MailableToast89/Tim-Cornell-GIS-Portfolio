@@ -40,5 +40,5 @@ footer {
   font-size: 18px;
 img {
   border: 1px solid #000 !important;
-  display: inline-block;
+  box-sizing: border-box;
 }
